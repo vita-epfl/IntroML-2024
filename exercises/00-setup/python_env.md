@@ -86,7 +86,7 @@ Here is a brief description of what these packages are used for:
 
 #### Installing JupyterLab extensions (can also take a while)
 ```
-jupyter labextension install jupyterlab-plotly --minimize=False
+jupyter labextension install plotlywidget --minimize=False
 jupyter labextension install @jupyterlab/toc --minimize=False
 ```
 
