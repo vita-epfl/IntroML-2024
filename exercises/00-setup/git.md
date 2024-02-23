@@ -34,7 +34,7 @@ You can download GitHub Desktop at the following link: https://desktop.github.co
 
 ## Cloning the course's repository
 
-All of this course's exercises can be found at: https://github.com/vita-epfl/introML-2023
+All of this course's exercises can be found at: https://github.com/vita-epfl/introML-2024
 
 In order to get a local copy of this repository, you will need to clone it.
 In Git terminology, `cloning` means to creates a local copy of a project that already exists remotely.
